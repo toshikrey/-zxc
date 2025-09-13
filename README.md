@@ -1,6 +1,4 @@
- ICS-1715  
-Панченко Антон 
-Група:1.8 
-Факультет: ФІТ  
-Лабораторна робота №2  
-Тема:Система контролю версій Git  
+git init
+git config --global user.name Антон Панченко
+git config --global user.email a.panchenko_fit_8_25_b_d@knute.edu.ua
+
